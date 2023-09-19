@@ -12,6 +12,8 @@ export default function AppBasic08() {
       {DrawStar(3)} <br />
       {DrawStar(4)} <br />
       {DrawStar(5)} <br />
+      {DrawStar(4)} <br />
+      {DrawStar(3)} <br />
     </div>
   );
 }
